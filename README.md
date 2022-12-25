@@ -27,14 +27,6 @@
         </sub>
     </td>
      <td align="center">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="65px" alt="Eclipse icon"/><br>
-        <sub>
-          <b>
-            <pre>Eclipse</pre>
-          </b>
-        </sub>
-      </td>
-     <td align="center">
         <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
         <sub>
           <b>
