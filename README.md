@@ -82,14 +82,6 @@
           </b>
         </sub>
       </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-        <sub>
-          <b>
-            <pre>NodeJS</pre>
-          </b>
-        </sub>
-      </td>
   </tr>
 </table>
 
