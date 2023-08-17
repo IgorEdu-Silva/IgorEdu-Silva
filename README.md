@@ -12,10 +12,6 @@
   
   ##
   
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=IgorEdu-Silva&theme=radical&hide_border=true">
-  
-  <br><br><br>
-  
 <table align="center" height="300px">
   <tr>
     <td align="center">
@@ -54,31 +50,7 @@
         <img src="https://skillicons.dev/icons?i=md" width="65px" alt="MDicon"/><br>
         <sub>
           <b>
-            <pre>MArkDown</pre>
-          </b>
-        </sub>
-      </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML icon"/><br>
-        <sub>
-          <b>
-            <pre>HTML</pre>
-          </b>
-        </sub>
-      </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS icon"/><br>
-        <sub>
-          <b>
-            <pre>CSS</pre>
-          </b>
-        </sub>
-      </td>
-    <td align="center">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br>
-        <sub>
-          <b>
-            <pre>JavaScript</pre>
+            <pre>MarkDown</pre>
           </b>
         </sub>
       </td>
