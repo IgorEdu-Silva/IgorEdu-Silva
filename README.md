@@ -6,37 +6,11 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr align="center">
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=IgorEdu-Silva&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEdu-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-  <tr align="center">
-    <td>
-      <br />
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IgorEdu-Silva&theme=dark&hide_border=false"
-        alt="Github Streak"
-      />
-    </td>
-  </tr>
-</table>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorEdu-Silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorEdu-Silva&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats"/>
+<br><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorEdu-Silva&theme=dark&hide_border=false" alt="Github Streak"/>
 
 --- 
 
